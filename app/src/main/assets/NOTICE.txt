@@ -1,0 +1,16 @@
+CC-CEDICT attribution
+
+Source: CC-CEDICT / MDBG https://www.mdbg.net/chinese/dictionary?page=cc-cedict
+Authors: Paul Denisowski and CC-CEDICT contributors.
+Downloaded: 2026-10-02; source release 2026-10-01 (see source header).
+License: Creative Commons Attribution-ShareAlike 4.0 International
+https://creativecommons.org/licenses/by-sa/4.0/
+
+The lexicon.tsv.gz asset is an adaptation: simplified Chinese entries,
+normalized toneless pinyin (v for ü), first two useful English definitions,
+basic candidate ordering. This adapted data remains CC BY-SA 4.0.
+Conversion source is included in tools/make_lexicon.py in the source archive.
+
+WordBud / 词芽 is an independent unofficial prototype inspired by the concept
+of displaying translations beside input candidates. It does not incorporate
+Qingjian code, brand name or logo, and is not affiliated with its maintainers.
